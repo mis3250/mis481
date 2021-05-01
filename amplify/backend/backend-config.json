@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "mis4812bef24543": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
